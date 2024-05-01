@@ -1,0 +1,9 @@
+pandas
+openai
+numpy
+collections
+ast
+pygame
+io
+Speech_Recognition
+customtkinter
