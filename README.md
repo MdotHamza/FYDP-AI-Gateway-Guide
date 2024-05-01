@@ -1,6 +1,6 @@
 # FYDP-AI-Gateway-Guide
 AoA,
-In this repository we will sharing all the files that we used in our Final Year Design Project.
+In this repository we have shared all the files that we used in our Final Year Design Project.
 
 1. First of all, if you want to make new embeddings for a dataset you can run the Embeddings.ipynb notebook file on the Google colab to do so.
 2. The dataset we used is provided with the name SINES.pdf.
